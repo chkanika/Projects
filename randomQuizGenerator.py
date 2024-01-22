@@ -26,7 +26,7 @@ capitals = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix',
 for quizNum in range(35):
     # Create the quiz and answer key files.
     # TODO: Create the quiz and answer key files.
-    quizfile = open(f'capitalsquiz{quizNum+1}.txt', 'w')
+    # quizfile = open(f'capitalsquiz{quizNum+1}.txt', 'w')
     # TODO: Write out the header for the quiz.
 
     # TODO: Shuffle the order of the states.
